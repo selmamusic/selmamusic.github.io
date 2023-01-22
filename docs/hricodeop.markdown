@@ -7,7 +7,7 @@ The overall aim of of the planned research is to develop a holistic, human-centr
 
 The shared-control framework that will be developed within this project will enable human-robot collaboration in many application domains ranging from industrial, service, medical, to exploration of dangerous/inaccessible environments. In particular, the Covid-19 pandemic has revealed a pressing need for robot assistants in hospitals because of a shortage of clinical professionals and the risk of infection spreading to hospital staff who interact with infected patients. Therefore, the focus of this action is on human-robot collaboration in healthcare.
 
-![image info](EU_logo.png){:style="float: left; padding-right:7px"}{:width="100",height="100"}
+![image info](./EU_logo.png){:style="float: left; padding-right:7px"}{:width="100",height="100"}
 This project has received funding from the European Union's Horizon 2020 research and innovation programme (2014-2020) under the Marie Skłodowska-Curie Action Grant Agreement No. 101025273 - HRI-CoDeOp.
 
 Timeline
