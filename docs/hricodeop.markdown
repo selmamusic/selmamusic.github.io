@@ -16,4 +16,6 @@ Timeline
 
 [27-10-2022]    Gave a talk on "Human-Multi-Robot Systems: Challenges for Real World Applications" at IROS22. The talk is available on [Youtube](https://www.youtube.com/watch?v=AKJ3MRAvC0I&ab_channel=HMRS2022).
 
+[13-07-2022]    Organized lab tour to high-school students at Stanford University Computer Science Department. 
+
 [09-11-2021]    Start of the EU MSCA project at Stanford University.
