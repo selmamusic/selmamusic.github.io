@@ -2,6 +2,7 @@
 layout: page
 title: MSCA Project
 permalink: /hri-codeop
+order: 2
 ---
 The overall aim of of the planned research is to develop a holistic, human-centric shared-control framework for human-robot collaboration that will consider the interaction on: (i) the cognitive/decision-making level for a dynamic allocation of responsibilities and roles to the human and the robot, as well as an online negotiation to avoid/resolve conflicts, and (ii) the physical/operational level with human-in-the-loop. Currently, there exists no holistic shared-control framework that enables interaction on cognitive (decision-making) and operational (physical) levels simultaneously, that is independent of the type of a robot system or the interaction (teleoperation or direct physical interaction).
 

@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+order: 1
 ---
 ![image info](selma_head.jpg){:style="float: left; padding-right:10px"}{:width="200",height="200"}
 
